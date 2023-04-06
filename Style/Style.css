@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    border: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgba(0, 128, 0, 0.507);
+    text-align: center;
+}
